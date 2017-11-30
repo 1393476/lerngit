@@ -3,3 +3,4 @@ git is free software distributed under the deletion
 git has mutabe index called stage 
 git tracks change
 create a new branch is quick
+creating a new branch is quekc and simple
